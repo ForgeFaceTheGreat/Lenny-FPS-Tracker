@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    background: transparent;
+    overflow: hidden;
+}
+
+#game-name {
+    color: blue;
+    font-size: 24px;
+    margin-bottom: 4px;
+}
+
+#fps {
+    color: rgb(255, 0, 0);
+    font-size: 32px;
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
